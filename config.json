@@ -1,6 +1,6 @@
 {
     "tokens": [
-        "MTMzNzMyNjk3NTA4NTE4NzEzMg.GJrORX.ktvKrRh3wvHdJ_2VltCapmnpO-DwljW6AL-MZg"
+        ""
     ],
     "key": "",
     "domains": [
@@ -11,7 +11,7 @@
     ],
     "discordServer": "1306997570488504330",
     "notifierWebhook": "https://discord.com/api/webhooks/1324692687332577391/0Wp05h_qDcfIoMSmsE_lk10fNGLIZ-uaWa4KpU-i0mFSHbIaDYCAbytf6SUsn_ICmkOF",
-    "emailerToken": "MTMyMzg5NTAyMTU0MzQ5MzY0Mw.GmvvRq.yAKLhkAVpYtpj4DhA1cPaAyKnEWaY8ZqVIPNJg",
+    "emailerToken": "",
     "guildid": "1306997570488504330",
     "roleid": "1324692845042466910",
     "footer": {
